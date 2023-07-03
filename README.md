@@ -1,5 +1,6 @@
-MATLAB-Jpeg-encoder
+VOCEA
 ===================
 
-Full JPEG compression algorithm implementation in MATLAB, with writing image data into file.
-Run the main.m script, where you should configure input file name, output file name and desired quality.
+This repository contains code for the paper "Visual Quality Optimization on the Quantization Table in JPEG Compression With Dual Population Based Co-Evolutionary Algorithm"
+
+The main program of the code is VOCEA.m
