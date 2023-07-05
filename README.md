@@ -15,7 +15,7 @@ The main program of the code is vocea.m,The population algorithm with constraint
 
  
 
-| ![img](file:///C:\Users\CWP\AppData\Local\Temp\ksohtml40928\wps1.jpg) Kodim24   jpeg rate=0.2038  dss=0.6851 | ![img](file:///C:\Users\CWP\AppData\Local\Temp\ksohtml40928\wps2.jpg) psyq rate=0.2005 dss=0.7625 | ![img](file:///C:\Users\CWP\AppData\Local\Temp\ksohtml40928\wps3.jpg) sa rate=0.2003  dss=0.7438 |
+| ![img]([file:///C:\Users\CWP\AppData\Local\Temp\ksohtml40928\wps1.jpg](https://github.com/CCchuxin/VOCEA/blob/main/%E5%9B%BE%E5%83%8F%E5%8E%8B%E7%BC%A9%E7%BB%93%E6%9E%9C/jpeg/kodim11_0.2.jpg)) Kodim24   jpeg rate=0.2038  dss=0.6851 | ![img](file:///C:\Users\CWP\AppData\Local\Temp\ksohtml40928\wps2.jpg) psyq rate=0.2005 dss=0.7625 | ![img](file:///C:\Users\CWP\AppData\Local\Temp\ksohtml40928\wps3.jpg) sa rate=0.2003  dss=0.7438 |
 | :----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![img](file:///C:\Users\CWP\AppData\Local\Temp\ksohtml40928\wps4.jpg) rdoea rate=0.2084 dss=0.7071 | ![img](file:///C:\Users\CWP\AppData\Local\Temp\ksohtml40928\wps5.jpg) vocea rate=0.1995 dss=0.7822 |                                                              |
 | ![img](file:///C:\Users\CWP\AppData\Local\Temp\ksohtml40928\wps6.jpg) Kodim16 jpeg rate=0.2057	dss=0.54769 | ![img](file:///C:\Users\CWP\AppData\Local\Temp\ksohtml40928\wps7.jpg) psyq rate=0.2056	dss=0.6345 | ![img](file:///C:\Users\CWP\AppData\Local\Temp\ksohtml40928\wps8.jpg) sa rate=0.2033	dss=0.6193 |
