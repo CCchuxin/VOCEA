@@ -7,7 +7,11 @@ The main program of the code is vocea.m,The population algorithm with constraint
 
 
 
- 
+The comparison methods include:
+1. RDOEA.  Rate–distortion optimal evolutionary algorithm for JPEG quantization with multiple rates, Knowledge-based Systems, 2022.
+2. PsyQ. The optimal quantization matrices for JPEG image compression from psychovisual threshold, J. Theor. Appl. Inf. Technol. 70(3) (2014) 566–572.
+3. SA. Simulated annnealing for JPEG quantization, 2017, arXiv preprint arXiv:1709.00649.
+4. ASC. A multi-objective evolutionary approach to image quality/compression ratio trade-off in JPEG baseline algorithm, Appl. Soft Comput. 10 (2) (2010) 548–561.
 
  **Performance**
 
